@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+it tells git to begin tracking changes to the directory and its files.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+the staging area tells git which files from the working directory we want to commit.  it allows us to selectively choose which
+changes we want to commit to the repository.
+
+
