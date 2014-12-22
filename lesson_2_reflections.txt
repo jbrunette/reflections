@@ -9,3 +9,8 @@ the staging area tells git which files from the working directory we want to com
 changes we want to commit to the repository.
 
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can use git status and git diff to find the files in the staging area and check what has changed in the files
+to verify that they represent one logical change.
+
